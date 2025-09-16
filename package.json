@@ -1,0 +1,12 @@
+{
+  "name": "trinotex-backend",
+  "version": "1.0.0",
+  "description": "Backend for TriNoteX app",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
